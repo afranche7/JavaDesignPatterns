@@ -1,1 +1,1 @@
-# JavaPractice
+# Java Design Patterns
